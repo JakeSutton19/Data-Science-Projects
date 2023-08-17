@@ -13,5 +13,6 @@
 	- Used: Jupyter Lab, Pandas, Numpy
 
 4. Movie Recommendation: System for identifying and suggesting similar movies to unique movie
+	- Used: Jupyter Lab, Pandas, Numpy
 
 
